@@ -4,7 +4,7 @@ Third-year Computer Science student at GJU who builds web and mobile apps, mostl
 
 ## About
 
-I'm in my third year of Computer Science at the German Jordanian University. Most of what I build lands somewhere between full-stack development, FinTech, and figuring out how a product should actually feel to use. I like projects where I own a problem end to end, from the idea to the interface, and I'm happiest when the thing I built solves something real.
+I mostly work across full-stack development, FinTech, and UI/UX. I like taking a project from an early idea to something people can actually use, and I care most about building things that solve a real problem.
 
 ## Projects
 
