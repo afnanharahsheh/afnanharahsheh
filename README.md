@@ -93,11 +93,7 @@ Git/GitHub, outreach & external communication, cross-functional collaboration
 
 ---
 
-## Connect
 
-- **LinkedIn:** [LinkedIn URL]
-- **Portfolio:** [Portfolio URL]
-- **Email:** [Email]
 
 ---
 
