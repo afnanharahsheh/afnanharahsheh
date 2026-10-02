@@ -1,100 +1,51 @@
-# Afnan Harahsheh
+# Afnan Ahmad
 
-**Third-year Computer Science student at German Jordanian University (GJU)**
-Full-Stack Development · FinTech · Product & UI/UX
+Third-year Computer Science student at GJU who builds web and mobile apps, mostly around FinTech.
 
----
+## About
 
-I build software, think in products, and work across the lines that usually separate engineering, design, and communication. My work spans **full-stack development**, **FinTech products**, and **product/UI-UX** — from an AI-assisted emergency dispatch platform to collaborative FinTech solutions and startup outreach.
+I'm in my third year of Computer Science at the German Jordanian University. Most of what I build lands somewhere between full-stack development, FinTech, and figuring out how a product should actually feel to use. I like projects where I own a problem end to end, from the idea to the interface, and I'm happiest when the thing I built solves something real.
 
----
+## Projects
 
-## About / What I Work On
+**SERP — Smart Emergency Response Platform**
+A decision-support tool for emergency dispatchers. It suggests how urgent an incident is and which units to send, but the dispatcher makes every final call. This is my graduation project at GJU, and I'm still building it.
+[Read the case study](https://github.com/afnanharahsheh/serp-case-study)
 
-- 🧑‍💻 **Full-stack development** — building web and mobile applications end to end (React/TypeScript front ends, C#/.NET and Firebase back ends, Kotlin/Android apps).
-- 💳 **FinTech & business problems** — designing solutions around real financial challenges: financial literacy, SME liquidity, receivables financing, and risk.
-- 🎯 **Product, UI/UX & communication** — contributing beyond code to product experience, interface decisions, outreach, and external communication.
+**GJU Companion**
+An Android app for students at my university — timetable, announcements, clubs, lost & found, study materials, and more, with separate access for students, admins, and event managers. Built with Kotlin, Jetpack Compose, and Firebase.
 
-Three things I aim to demonstrate: **I can build software, I understand products and FinTech/business problems, and I can work across technical, product, design, and communication areas.**
+**Beynatna**
+A family finance app that helps parents and kids learn about money and manage it together, instead of treating financial literacy as a solo thing. I built it with a team; it won Best Technical Solution and Best Business Idea at the Quantum Quants FinTech hackathon and went through JoPACC's incubation.
+[Beynatna on GitHub](https://github.com/Beynatna)
 
----
+**Zimamless**
+A FinTech concept my team designed to help small businesses get paid sooner — turning unpaid invoices into early cash, with verification and risk checks along the way.
+[Read the case study](https://github.com/afnanharahsheh/zimamless-case-study)
 
-## Featured Projects
-
-### 01 — SERP · Smart Emergency Response Platform
-AI-assisted, human-in-the-loop decision support for emergency dispatch.
-- GJU graduation project — **currently in development**.
-- AI recommends incident priority and suitable units; **the dispatcher always makes the final decision**.
-- 🔗 Case study: [`serp-case-study`](https://github.com/afnanharahsheh/serp-case-study)
-
-### 02 — GJU Companion · Kotlin/Android University App
-A mobile companion bringing university information and student services into one app.
-- Academic project built with Kotlin, Jetpack Compose, and Firebase.
-- Role-based areas for students, administrators, and event managers.
-- 🔗 Source code: [`gju-companion`](https://github.com/afnanharahsheh/gju-companion) *(Firebase configuration is excluded and must be provided locally.)*
-
-### 03 — Beynatna · Family-Centered FinTech / Financial Literacy Platform
-A collaborative FinTech project focused on family-centered financial literacy.
-- 🏆 Won **Best Technical Solution** and **Best Business Idea** at the **Quantum Quants FinTech hackathon**.
-- Developed through the **JoPACC** incubation journey.
-- 🔗 Case study: _coming soon_ *(case study only — no source code)*
-
-### 04 — Zimamless · Receivables Financing / SME Liquidity Concept
-A collaborative FinTech innovation project addressing SME cash-flow gaps.
-- Focused on receivables financing, verification, financial data, and risk assessment.
-- 🔗 Case study: [`zimamless-case-study`](https://github.com/afnanharahsheh/zimamless-case-study) *(case study only — no source code)*
-
-### 05 — Caliber · Outreach Officer & Cross-Functional Contributor
-Outreach, website/digital presence, and UI/UX in a collaborative startup environment.
-- Outreach-led role that extended into web and product experience.
-- 🔗 Case study: [`caliber-case-study`](https://github.com/afnanharahsheh/caliber-case-study) *(case study only — no proprietary code)*
-
----
+**Caliber**
+I joined this startup as Outreach Officer and ended up contributing to the website and the UI/UX as well.
+[Read the case study](https://github.com/afnanharahsheh/caliber-case-study)
 
 ## Experience
 
 **Software Development Intern — Umniah**
-- 9 months across three summers, as part of my **Dual Studies** journey.
-- Worked within Umniah's **Engineering & Networking** environment.
-- Gained hands-on experience across software development and technical/engineering work.
+Three summers, about nine months in total, as part of my Dual Studies program. I worked on software and technical engineering tasks within Umniah's Engineering & Networking environment.
 
----
+## Skills
 
-## Skills & Technologies
+C# / .NET · React / TypeScript · Kotlin / Android · Firebase · UI/UX · Git / GitHub
 
-**Languages**
-C#, TypeScript, Kotlin, JavaScript, HTML/CSS
+## Achievements
 
-**Frontend**
-React, Jetpack Compose, Material 3
+- Best Technical Solution — Beynatna, Quantum Quants FinTech hackathon
+- Best Business Idea — Beynatna, Quantum Quants FinTech hackathon
+- JoPACC incubation — Beynatna
 
-**Backend**
-ASP.NET Core Web API, .NET 9, Firebase (Authentication, Cloud Firestore)
+## Currently Building
 
-**Mobile**
-Kotlin / Android
+**SERP**, my graduation project. The idea is simple: AI recommends, the dispatcher always approves. It helps dispatchers triage incidents and assign units faster without taking the decision out of their hands. Still very much a work in progress.
 
-**Product & Design**
-UI/UX contribution, product experience
+## Connect
 
-**Other**
-Git/GitHub, outreach & external communication, cross-functional collaboration
-
-> Additional tools and technologies will be added as projects are confirmed.
-
----
-
-## Achievements & Highlights
-
-- 🏆 **Best Technical Solution** & **Best Business Idea** — Quantum Quants FinTech hackathon (Beynatna).
-- 🚀 **JoPACC incubation** journey (Beynatna).
-- 🎓 Graduation project (SERP) demonstrating AI-assisted, human-in-the-loop emergency dispatch support.
-- 🤝 Cross-functional experience spanning development, product, design, and outreach.
-
----
-
-
-
----
-
-> _This profile links to public case-study and source-code repositories. Proprietary source code, internal company information, confidential metrics, and private documents are intentionally excluded._
+- Email: afnan.harahsheh.ah@gmail.com
